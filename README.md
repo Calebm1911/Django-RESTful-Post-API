@@ -1,4 +1,5 @@
 Django Post API
+
 Django Post API is a versatile RESTful API designed for effortless management of blog posts. This API offers a seamless experience with endpoints tailored for creating, retrieving, updating, and deleting blog posts.
 
 Model Overview
